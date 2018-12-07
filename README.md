@@ -1,5 +1,3 @@
 # Hello-World
-Learning Github
 
-
-This file is in the new branch.
+this repo contain some private stuff
